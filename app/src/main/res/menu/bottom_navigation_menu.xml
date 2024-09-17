@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_nav_temp"
+        android:title="Temperature"
+        android:icon="@drawable/navtemp" />
+
+    <item
+        android:id="@+id/bottom_nav_aqi"
+        android:title="AQI"
+        android:icon="@drawable/nav_aqi"/>
+
+    <item
+        android:id="@+id/bottom_nav_windspeed"
+        android:title="Wind Speed"
+        android:icon="@drawable/navwind"/>
+
+    <item
+        android:id="@+id/bottom_nav_uvi"
+        android:title="UVI"
+        android:icon="@drawable/navuvi"/>
+
+    <item
+        android:id="@+id/bottom_nav_humidity"
+        android:title="Humidity"
+        android:icon="@drawable/navhumidity"/>
+
+</menu>

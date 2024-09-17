@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_weather_history"
+        android:title="Weather History"
+        android:icon="@drawable/navhistory"/>
+
+    <item
+        android:id="@+id/nav_news"
+        android:title="Weather News"
+        android:icon="@drawable/navnews"/>
+
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@drawable/navsettings"/>
+
+    <item
+        android:id="@+id/nav_about"
+        android:title="About"
+        android:icon="@drawable/navabout"/>
+
+</menu>
