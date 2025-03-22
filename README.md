@@ -7,4 +7,5 @@ extracting information from OpenWeathermap API. The app has a salient feature of
 conditions of two locations making the app more user-friendly. The app also updates the user about the current
 weather news worldwide and thus the app gives a complete insight of the weather condition.
 
-[WeatherCastApplication-ResearchPaper.pdf](https://github.com/user-attachments/files/17034776/WeatherCastApplication-ResearchPaper.pdf)
+Paper : 
+https://www.ijera.com/papers/vol12no9/Ser-1/F12092631.pdf
